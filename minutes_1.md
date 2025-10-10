@@ -25,3 +25,13 @@ Amy is a receptionist within an office building. She lives by herself and reside
 3. Bobby:
 
 Bobby is a data analyst for a recent tech start-up. As of recently, he has wanted to expand his palete by trying new things. He desires to find and outlet that can recommend easy, accessible meal recipes to try. With additional features, Bobby's problem can be resolved.
+
+
+User Story:
+Gwen-
+
+As a busy home cook,
+
+I want my smart refrigerator to automatically track the food inventory it contains and recommend recipes based on what I already have,
+
+So that I can easily plan meals, minimize food waste, and save time by avoiding unnecessary trips to the grocery store.
