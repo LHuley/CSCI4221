@@ -1,13 +1,29 @@
-Names: Langston, Ayodeji, Zane
-Minutes Meeting #1: 40 mins
-Minutes Meeting #2: 50 mins
-Minutes Meeting #3: 45 mins
+Names of Attending: Langston, Ayodeji, Zane
+Minutes Meeting #1: 
+Date: October 6th, 2025 
+
+Points discussed:  
+
+Decision to make a Refrigerator inventory product. 
+
+Discussed Prototypes or features: 
+
+Prototype #1: an inventory tab that keeps track of types and amounts of food and drink items. 
+
+Prototype #2: a Recipe Checker tab that stores the customs recipes of each user. 
+
+Prototype #3: a recommendation tab that provides users with a list of popular recipes and things such as difficulty rating, cook time, ingredients, and instructions. 
 
 
-        |           PBI            |          Status          |         Sprint        |         Estimate       |  Assigned  Reviewer |
-        | 3 Persona Descriptions   |  Implementation Stage    |   1 week              |    1 member            |   Zane       |   Dr. Hu  | 
-        |       Prototypes         |  Implementation Stage    |     1 week            |      1 member          |  Langston    |   Dr. Hu  |
-        |     User Stories         |  Implementation Stage    |     1 week            |      1 member          |  Ayodeji     |   Dr. Hu  |
+
+| Tasks                                                                                                                                                               | Status                  | Sprint  | Estimate                                  | Assigned         | Reviewer         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------|-------------------------------------------|------------------|------------------|
+| 1.Research the actions of users utilizing management applications                                                                                                   | Ready for Consideration | 2 weeks | One senior researcher for 40 hours        | Ayodeji Williams | Langston Huley   |
+| 2.Study and analyze the expense-tracking of users                                                                                                                   | Ready for Consideration | 2 weeks | One senior researcher for 40 hours        | Langston Huley   | Ayodeji Williams |
+| 3.Prototype an inventory tab the keeps tracks of types and amounts of food and drink items                                                                          | Working                 | 3 weeks | Two Junior developers of 64 hours         | Zane Motley      | Langston Huley   |
+| 4.Prototype a Recipe Checker Tab that stores the custom recipes of each user                                                                                        | Working                 | 3 weeks | Two Junior developers of 64 hours         | Ayodeji Williams | Zane Motley      |
+| 5.Prototype a recomendation tab that provides users with a list of popular recipes with details such as difficulty rating, cook time, ingredients, and instructions | Working                 | 3 weeks | A Junior and Senior developer of 72 hours | Langston Huley   | Zane Motley      |
+
 
 
 
